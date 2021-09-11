@@ -5,7 +5,6 @@ class User {
     this.fullName = fullName;
     this.surname = surname;
     this.race = race;
-    //This is the error
   }
 }
 
